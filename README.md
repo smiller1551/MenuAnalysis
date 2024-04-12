@@ -1,3 +1,3 @@
-# MenuAnalysis
+# Preserved Menus Network Exploration
 
-### Please read https://medium.com/@simon325/attempting-to-cluster-states-by-steam-locomotive-types-ad20297a1f58 to learn more about this analysis!
+### Please read https://medium.com/inst414-data-science-tech/preserved-menus-network-exploration-98202209d8f6 to learn more about this analysis!
